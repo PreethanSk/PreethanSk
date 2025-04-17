@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PreethanSk.PreethanSk&"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -12,16 +16,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PreethanSk.PreethanSk&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
